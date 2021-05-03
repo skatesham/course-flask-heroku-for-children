@@ -13,7 +13,7 @@ Se decorar logo esquecerá, se você entendeu nunca vai esquecer tudo.
 - Loop: `for`
 - Função/Método: `def xxx():`
 - Futuro classes `class xxx:` e Programação orientada a objeto
-- Atributos de classes
+- Variáveis/Atributos
 
 ### 2: Meu primeiro Site
 ![alt text](./img/2.png)
