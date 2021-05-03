@@ -1,7 +1,10 @@
 ## Roteiro do curso 101
+    "Não decore, entenda" - Ivan B. Guerra
 
-### introdução
-Como fazer sistema web com pouca informação e consultar suas necessidades
+Se decorar logo esquecerá, se você entendeu nunca vai esquecer tudo.
+
+### Introdução
+ Como fazer sistema web direto ao ponto com flask e python e pouca informação consultando suas necessidades.
 
 ### 1: Revisão lógica primitiva de programação python 3
 ![alt text](./img/1.jpg)
@@ -24,7 +27,7 @@ Como fazer sistema web com pouca informação e consultar suas necessidades
 ![alt text](./img/3.jpg)
 - HTML
 - CSS
-- JS "Hello world"
+- JavaScript "Hello world" (JS)
 - Bootstrap
 - Templates flask
 
@@ -40,16 +43,21 @@ Como fazer sistema web com pouca informação e consultar suas necessidades
 - Heroku e criação de conta
 - Configuração para lançamento
 - Deploy na cloud
+- Acessando aplicação da cloud
 
 ### Conclusão
 ![alt text](./img/6.jpg)
-- Acessando aplicação da cloud
 - Programador treinee completo
-- Experiencia com Python, Flask, front-end, JS, Web, git, Heroku.  
+- Experiencia com Python 3, Flask, Front-End, JavaScript, Web, git, Heroku.  
 
 ### Estudos futuros
+![alt text](./img/7.jpg)
 - Banco de dados (BD)
 - SQL
 - Integração SQLite com flask
 - Crud com dados na app
 - Implementação de uma solução com BD na app
+
+### Extra
+![alt text](./img/8.jpg)
+- Markdown
