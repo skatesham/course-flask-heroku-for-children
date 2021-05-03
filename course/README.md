@@ -19,7 +19,7 @@ Se decorar logo esquecerá, se você entendeu nunca vai esquecer tudo.
 ![alt text](./img/2.png)
 - Flask
 - Explicação de Rotas e Anotation
-- Site "Hello word"
+- Site "Hello world"
 - Renderizando template
 - Log
 
