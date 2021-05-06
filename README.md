@@ -1,5 +1,8 @@
 # Curso introdução a programação web direto ao ponto  
-Introdução a progração web direto ao ponto com python e flask.
+Introdução a progração web direto ao ponto com python e flask.  
+
+## Roteiro
+[Link do Roteiro](./course/README.md)
 
 # Flask
 Primeiro Site flask
